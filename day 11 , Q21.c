@@ -31,4 +31,5 @@
                  case 12 : printf("december , 31 days\n");
                            break;
                  }
+                   return 0;
                  } 
