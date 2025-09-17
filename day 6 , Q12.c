@@ -14,4 +14,5 @@ int main(){
                                                    else{
                                                         printf("zero\n");
                                                          }
+           Return 0;
            }                                              
