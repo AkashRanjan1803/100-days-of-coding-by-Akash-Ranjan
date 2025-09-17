@@ -11,4 +11,5 @@ int main(){
            else{
            printf("not leap year\n");
            }
+           return 0;
            }
