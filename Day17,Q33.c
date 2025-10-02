@@ -12,7 +12,7 @@
 	}
 	for(int temp = num;temp !=0;temp/=10){
 	rem=temp%10;
-	result=result+pow(rem,digits);
+	result=result+pow(rem,count);
 	}
 	if ((int)result == original) {
         printf("%d is an Armstrong number.\n", original);
